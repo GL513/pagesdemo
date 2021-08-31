@@ -1,6 +1,7 @@
 copyright: GL513 Github Page
 site_name: GL513 Github 
 site_url: https://GL513.github.io/
+site_description: GL513 Github. 
 extra:
   disqus: gl513
 theme:
@@ -19,7 +20,7 @@ markdown_extensions:
 extra:
  analytics:
     provider: google
-    property: G-J1345P6GQX
+    property: G-XXXXXXXXXX
  social:
   - icon: fontawesome/brands/github
     link: https://github.com/gl513
