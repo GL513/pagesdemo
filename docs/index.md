@@ -1,17 +1,22 @@
-# Welcome to MkDocs
+# Home
+## Welcome.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+# Information
+## About GL
+Hello, my name is Gavin, also known as GL, and GL513 in online communitites.<br>
+I've been a huge tech geek since I was 5, and I still am, helping others with their projects, such as [KeyMapper](https://play.google.com/store/apps/details?id=io.github.sds100.keymapper&hl=en_US&gl=US) by [sds100](https://github.com/sds100/).<br>
+I hope that one day I can develop my own apps, like KeyMapper, or [Shortcut Maker](https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker&hl=en_US&gl=US), especially since I literally always try to make things better :)<br>
+I also have an awesome community of friends, like [Jambler](https://gitlab.com/jambl3r), [Noah](https://github.com/noahtheprogrammer), A.K.A. OKprogrammer, and dreamweaver, [Trollserver](https://www.youtube.com/channel/UCljg1FH1B_ju2D_NfqAYjDw), and alot more people.<br>
+
+
+
+
+
+# Get Connected
+
+[![Join the Discord](https://1000logos.net/wp-content/uploads/2021/06/Discord-logo.png)](https://discordapp.com/widget?id=serverID&theme=dark)
+
