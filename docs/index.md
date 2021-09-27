@@ -12,5 +12,8 @@ I also have an awesome community of friends, like [Jambler](https://gitlab.com/j
 
 Pages will be updated soon. Currently still a WIP...
 
+# cpuminer-in-termux
+## Getting Started
+
 
 
